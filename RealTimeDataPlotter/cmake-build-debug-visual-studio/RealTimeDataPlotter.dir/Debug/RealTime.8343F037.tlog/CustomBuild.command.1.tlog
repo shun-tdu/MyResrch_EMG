@@ -1,0 +1,10 @@
+^C:\WORKSPACE\MYCLIONWORKS\REALTIMEDATAPLOTTER\CMAKELISTS.TXT
+setlocal
+C:\Users\tahar\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -SC:/Workspace/myCLionWorks/RealTimeDataPlotter -BC:/Workspace/myCLionWorks/RealTimeDataPlotter/cmake-build-debug-visual-studio --check-stamp-file C:/Workspace/myCLionWorks/RealTimeDataPlotter/cmake-build-debug-visual-studio/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
