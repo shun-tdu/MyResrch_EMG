@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Workspace\myCLionWorks\RealTimeDataPlotter\cmake-build-debug-visual-studio\x64\Debug\ZERO_CHECK</FullPath>
+      <FullPath>C:\WorkSpace\myClionWorks2\MyResrch_EMG\MyResrch_EMG\RealTimeDataPlotter\cmake-build-debug-visual-studio\x64\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\Workspace\myCLionWorks\RealTimeDataPlotter\cmake-build-debug-visual-studio\Debug\RealTimeDataPlotter.exe</FullPath>
+      <FullPath>C:\WorkSpace\myClionWorks2\MyResrch_EMG\MyResrch_EMG\RealTimeDataPlotter\cmake-build-debug-visual-studio\Debug\RealTimeDataPlotter.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

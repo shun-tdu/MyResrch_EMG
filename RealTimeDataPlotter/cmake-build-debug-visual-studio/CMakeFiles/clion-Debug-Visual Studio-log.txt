@@ -1,4 +1,5 @@
-C:\Users\tahar\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -G "Visual Studio 17 2022" -S C:\Workspace\myCLionWorks\RealTimeDataPlotter -B C:\Workspace\myCLionWorks\RealTimeDataPlotter\cmake-build-debug-visual-studio
--- Configuring done (0.0s)
--- Generating done (0.0s)
--- Build files have been written to: C:/Workspace/myCLionWorks/RealTimeDataPlotter/cmake-build-debug-visual-studio
+C:\Users\tahar\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\233.14015.92\bin\cmake\win\x64\bin\cmake.exe -G "Visual Studio 16 2019" -S C:\WorkSpace\myClionWorks2\MyResrch_EMG\MyResrch_EMG\RealTimeDataPlotter -B C:\WorkSpace\myClionWorks2\MyResrch_EMG\MyResrch_EMG\RealTimeDataPlotter\cmake-build-debug-visual-studio
+-- Selecting Windows SDK version 10.0.22621.0 to target Windows 10.0.19045.
+-- Configuring done (0.1s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/WorkSpace/myClionWorks2/MyResrch_EMG/MyResrch_EMG/RealTimeDataPlotter/cmake-build-debug-visual-studio

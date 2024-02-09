@@ -1,0 +1,10 @@
+^C:\WORKSPACE\MYCLIONWORKS2\MYRESRCH_EMG\MYRESRCH_EMG\REALTIMEDATAPLOTTER\CMAKELISTS.TXT
+setlocal
+C:\Users\tahar\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\233.14015.92\bin\cmake\win\x64\bin\cmake.exe -SC:/WorkSpace/myClionWorks2/MyResrch_EMG/MyResrch_EMG/RealTimeDataPlotter -BC:/WorkSpace/myClionWorks2/MyResrch_EMG/MyResrch_EMG/RealTimeDataPlotter/cmake-build-debug-visual-studio --check-stamp-file C:/WorkSpace/myClionWorks2/MyResrch_EMG/MyResrch_EMG/RealTimeDataPlotter/cmake-build-debug-visual-studio/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

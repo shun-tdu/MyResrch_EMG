@@ -1,27 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\Workspace\myCLionWorks\RealTimeDataPlotter\main.cpp">
+    <ClCompile Include="C:\WorkSpace\myClionWorks2\MyResrch_EMG\MyResrch_EMG\RealTimeDataPlotter\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Workspace\myCLionWorks\RealTimeDataPlotter\crlserial.hpp">
+    <ClInclude Include="C:\WorkSpace\myClionWorks2\MyResrch_EMG\MyResrch_EMG\RealTimeDataPlotter\crlserial.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Workspace\myCLionWorks\RealTimeDataPlotter\udp_connection.h">
+    <ClInclude Include="C:\WorkSpace\myClionWorks2\MyResrch_EMG\MyResrch_EMG\RealTimeDataPlotter\udp_connection.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\Workspace\myCLionWorks\RealTimeDataPlotter\CMakeLists.txt" />
+    <CustomBuild Include="C:\WorkSpace\myClionWorks2\MyResrch_EMG\MyResrch_EMG\RealTimeDataPlotter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\WorkSpace\myClionWorks2\MyResrch_EMG\MyResrch_EMG\RealTimeDataPlotter\unsupported\Eigen\FFT" />
+    <None Include="C:\WorkSpace\myClionWorks2\MyResrch_EMG\MyResrch_EMG\RealTimeDataPlotter\Eigen\Eigen" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{CF92B585-9BD4-355C-9DA9-9A21A6B23C2C}</UniqueIdentifier>
+      <UniqueIdentifier>{A16EBF29-C064-3235-883E-E4EFD3DD389F}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{0B2DE956-9AEC-3F24-A11A-96458273FBDB}</UniqueIdentifier>
+      <UniqueIdentifier>{690B208C-63BA-3FC4-9C24-6B4DE6D891E7}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

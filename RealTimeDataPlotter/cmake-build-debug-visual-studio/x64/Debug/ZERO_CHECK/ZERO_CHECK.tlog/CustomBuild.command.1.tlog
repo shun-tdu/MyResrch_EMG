@@ -1,6 +1,6 @@
-^C:\WORKSPACE\MYCLIONWORKS\REALTIMEDATAPLOTTER\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\552BA837B2A1C67DCC20C39ADAEACEA1\GENERATE.STAMP.RULE
+^C:\WORKSPACE\MYCLIONWORKS2\MYRESRCH_EMG\MYRESRCH_EMG\REALTIMEDATAPLOTTER\CMAKE-BUILD-DEBUG-VISUAL-STUDIO\CMAKEFILES\0ECFC7DB1AD654E5F9069EE86B8E6D80\GENERATE.STAMP.RULE
 setlocal
-C:\Users\tahar\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -SC:/Workspace/myCLionWorks/RealTimeDataPlotter -BC:/Workspace/myCLionWorks/RealTimeDataPlotter/cmake-build-debug-visual-studio --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Workspace/myCLionWorks/RealTimeDataPlotter/cmake-build-debug-visual-studio/RealTimeDataPlotter.sln
+C:\Users\tahar\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\233.14015.92\bin\cmake\win\x64\bin\cmake.exe -SC:/WorkSpace/myClionWorks2/MyResrch_EMG/MyResrch_EMG/RealTimeDataPlotter -BC:/WorkSpace/myClionWorks2/MyResrch_EMG/MyResrch_EMG/RealTimeDataPlotter/cmake-build-debug-visual-studio --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/WorkSpace/myClionWorks2/MyResrch_EMG/MyResrch_EMG/RealTimeDataPlotter/cmake-build-debug-visual-studio/RealTimeDataPlotter.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

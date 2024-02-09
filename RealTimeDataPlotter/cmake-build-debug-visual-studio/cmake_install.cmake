@@ -1,4 +1,4 @@
-# Install script for directory: C:/Workspace/myCLionWorks/RealTimeDataPlotter
+# Install script for directory: C:/WorkSpace/myClionWorks2/MyResrch_EMG/MyResrch_EMG/RealTimeDataPlotter
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Workspace/myCLionWorks/RealTimeDataPlotter/cmake-build-debug-visual-studio/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/WorkSpace/myClionWorks2/MyResrch_EMG/MyResrch_EMG/RealTimeDataPlotter/cmake-build-debug-visual-studio/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

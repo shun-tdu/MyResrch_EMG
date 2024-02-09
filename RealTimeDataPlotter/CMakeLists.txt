@@ -8,6 +8,8 @@ add_executable(
         main.cpp
         crlserial.hpp
         udp_connection.h
+        unsupported/Eigen/FFT
+        Eigen/Eigen
 )
 
 

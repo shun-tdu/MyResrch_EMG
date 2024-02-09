@@ -1,3 +1,3 @@
-C:/Workspace/myCLionWorks/RealTimeDataPlotter/cmake-build-debug-visual-studio/CMakeFiles/RealTimeDataPlotter.dir
-C:/Workspace/myCLionWorks/RealTimeDataPlotter/cmake-build-debug-visual-studio/CMakeFiles/ALL_BUILD.dir
-C:/Workspace/myCLionWorks/RealTimeDataPlotter/cmake-build-debug-visual-studio/CMakeFiles/ZERO_CHECK.dir
+C:/WorkSpace/myClionWorks2/MyResrch_EMG/MyResrch_EMG/RealTimeDataPlotter/cmake-build-debug-visual-studio/CMakeFiles/RealTimeDataPlotter.dir
+C:/WorkSpace/myClionWorks2/MyResrch_EMG/MyResrch_EMG/RealTimeDataPlotter/cmake-build-debug-visual-studio/CMakeFiles/ALL_BUILD.dir
+C:/WorkSpace/myClionWorks2/MyResrch_EMG/MyResrch_EMG/RealTimeDataPlotter/cmake-build-debug-visual-studio/CMakeFiles/ZERO_CHECK.dir

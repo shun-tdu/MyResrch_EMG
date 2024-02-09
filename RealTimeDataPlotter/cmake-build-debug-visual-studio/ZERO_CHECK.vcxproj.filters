@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="C:\Workspace\myCLionWorks\RealTimeDataPlotter\cmake-build-debug-visual-studio\CMakeFiles\552ba837b2a1c67dcc20c39adaeacea1\generate.stamp.rule">
+    <CustomBuild Include="C:\WorkSpace\myClionWorks2\MyResrch_EMG\MyResrch_EMG\RealTimeDataPlotter\cmake-build-debug-visual-studio\CMakeFiles\0ecfc7db1ad654e5f9069ee86b8e6d80\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{91844DBD-1957-3D4A-9800-A24311F46527}</UniqueIdentifier>
+      <UniqueIdentifier>{9AF45E1C-1B30-38BD-8E9C-14FD90E0825B}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
